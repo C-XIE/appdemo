@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .page-content{
+    background: white;
+} */
+/* .specNavBar{
+    background:white !important;
+} */
+.setting_col{
+    padding-top: 30px;
+}
+.setting_word{
+    font-size: 14px;
+    color:#968a8a;
+    line-height: 20px;
+}
